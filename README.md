@@ -1,3 +1,7 @@
+
+
+###################################################################   React  ##########################################################################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +48,26 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+#####################################################################      Backend - server       ##################################################################################################################
+
+### run the server
+
+Go into the backend with the actions:
+
+"cd Backend"
+
+and than:
+
+"cd dist"
+
+and than:
+
+"node crud.js"
+
+
+####################################################################### conclusion ##############################################################################################################################
+
+Run the React app and the server in the same time and than start to play:)
